@@ -7,7 +7,7 @@ const  DisplayCitation = ({ citation }) => {
             <img  src={citation.image}  alt="profil"  />
             <ul>
                 <li>
-                    Name : {citation.name} 
+                    Name : {citation.character} 
                 </li>    
                 <li>
                     Quote : {citation.quote} 
